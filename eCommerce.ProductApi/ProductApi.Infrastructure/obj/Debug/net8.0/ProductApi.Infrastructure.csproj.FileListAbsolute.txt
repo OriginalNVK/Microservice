@@ -1,0 +1,12 @@
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.deps.json
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.sourcelink.json
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\refint\ProductApi.Infrastructure.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ref\ProductApi.Infrastructure.dll
