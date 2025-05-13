@@ -10,3 +10,9 @@ D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Applic
 D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
 D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
 D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\bin\Debug\net8.0\Library.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\bin\Debug\net8.0\Library.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CopyComplete

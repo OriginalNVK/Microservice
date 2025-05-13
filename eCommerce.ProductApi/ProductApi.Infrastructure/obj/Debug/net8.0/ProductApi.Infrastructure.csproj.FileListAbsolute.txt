@@ -10,3 +10,11 @@ D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infras
 D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\refint\ProductApi.Infrastructure.dll
 D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.pdb
 D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ref\ProductApi.Infrastructure.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\Library.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Application.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Application.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\Library.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.csproj.AssemblyReference.cache
+D:\Work\ProfessionalProject\Microservices\eCommerce.ProductApi\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.csproj.CopyComplete
