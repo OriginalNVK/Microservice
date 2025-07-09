@@ -28,7 +28,7 @@ namespace Mango.Web.Services
 		public async Task<ResponseDTO?> DeleteCouponAsync(int id)
 		{
 			return await _baseService.SendAsync(new RequestDTO() 
-			{ Method = ApiType.GET, Url = Utils.CouponAPIBase + "/api/coupon/" + id });
+			{ Method = ApiType.DELETE, Url = Utils.CouponAPIBase + "/api/coupon/" + id });
 		}
 
 		public async Task<ResponseDTO?> GetAllCouponsAsync()

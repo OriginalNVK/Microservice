@@ -1,11 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Mango.Services.CouponAPI.Models
 {
 	public class Coupon
 	{
 		[Key]
-		public int CouponID { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int CouponID { get; set; }
 
 		[Required]
 		public string CouponCode { get; set; }
